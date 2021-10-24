@@ -23,7 +23,7 @@
 
 ### Links
 
-- Live Site URL: [<a href="https://deepam-aggarwal.github.io/space-tourism/">](https://deepam-aggarwal.github.io/space-tourism/)
+- Live Site URL: [https://deepam-aggarwal.github.io/space-tourism/](https://deepam-aggarwal.github.io/space-tourism/)
 
 ## My process
 
@@ -38,7 +38,6 @@
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-```
 ### Continued development
 
 Adding more content to the site and introducing interesting ways by which user can grasp the knowledge in a joyful manner 

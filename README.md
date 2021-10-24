@@ -17,7 +17,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./preview.jpg)
 
 
 
